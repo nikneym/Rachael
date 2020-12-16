@@ -1,7 +1,7 @@
 # Rachael
 *a Discord bot that can do couple of things*
 
-### About
+### About~
 WIP Rachael is a Discord bot written in **python** with the help of **discord.py**.
 
 ### Requirements
