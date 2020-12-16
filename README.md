@@ -5,6 +5,8 @@
 WIP Rachael is a Discord bot written in **python** with the help of **discord.py**.
 
 ### Requirements
+*pip install requirements.txt*
+
 Needed libraries can also be found in requirements.txt.
 **Except them**, you have to install **[SoX](http://sox.sourceforge.net)**.
 - discord.py==1.5.1
