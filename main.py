@@ -13,7 +13,7 @@ from google_speech import Speech
 #beautiful soup ve req call
 import re
 import requests
-from bs4 import BeautifulSoup 
+from bs4 import BeautifulSoup
 
 #kitapyurdu scrapper
 #steam scrapper
