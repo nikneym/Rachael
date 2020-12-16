@@ -1,7 +1,8 @@
 # Rachael
-a Discord bot that can do couple of things
+*a Discord bot that can do couple of things*
 
-Rachael is a Discord bot written in **python** with the help of **discord.py**.
+### About
+WIP Rachael is a Discord bot written in **python** with the help of **discord.py**.
 
 ### Requirements
 Needed libraries can also be found in requirements.txt.
@@ -14,5 +15,18 @@ Needed libraries can also be found in requirements.txt.
 - sox==1.4.1
 
 ### Features
-- It can join to voice channels and speak the words you desired, thanks to google-speech.
-- It can also fetch kitapyurdu.com and steam (for no reason LOL), then bring you the results:
+- It can join to voice channels and speak the words you desired:
+[![Rachael TTS](http://img.youtube.com/vi/ACd_pQvEuWo/0.jpg)](https://www.youtube.com/watch?v=ACd_pQvEuWo)
+
+- Can check your Spotify activity and send the music you listen to as a message:
+![Spotify](https://github.com/nikneym/img_repo/blob/main/spotify.gif)
+
+It can also fetch kitapyurdu.com and steam (for no reason LOL), then bring you the results.
+- kitapyurdu:
+![kitapyurdu](https://github.com/nikneym/img_repo/blob/main/kitapyurdu.gif)
+
+- steam:
+![steam](https://github.com/nikneym/img_repo/blob/main/steam.gif)
+
+### Future
+Tomorrow is a mystery, but today's a present...
