@@ -23,7 +23,10 @@ Can check your **Spotify** activity and send the music you listen to as a messag
 ![Spotify](https://github.com/nikneym/img_repo/blob/main/spotify.gif)
 
 
+
+
 It can also fetch **kitapyurdu.com** and **steam** (for no reason), then bring you the results.
+
 **kitapyurdu:**
 
 ![kitapyurdu](https://github.com/nikneym/img_repo/blob/main/kitapyurdu.gif)
