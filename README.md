@@ -15,20 +15,20 @@ Needed libraries can also be found in requirements.txt.
 - sox==1.4.1
 
 ### Features
-- It can join to voice channels and speak the words you desired,
+It can join to voice channels and speak the words you desired,
 [catch](https://www.youtube.com/watch?v=ACd_pQvEuWo).
 
-- Can check your Spotify activity and send the music you listen to as a message:
+Can check your **Spotify** activity and send the music you listen to as a message:
 
 ![Spotify](https://github.com/nikneym/img_repo/blob/main/spotify.gif)
 
 
-- It can also fetch kitapyurdu.com and steam (for no reason), then bring you the results.
-- kitapyurdu:
+It can also fetch **kitapyurdu.com** and **steam** (for no reason), then bring you the results.
+**kitapyurdu:**
 
 ![kitapyurdu](https://github.com/nikneym/img_repo/blob/main/kitapyurdu.gif)
 
-- steam:
+**steam:**
 
 ![steam](https://github.com/nikneym/img_repo/blob/main/steam.gif)
 
