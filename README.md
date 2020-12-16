@@ -16,16 +16,19 @@ Needed libraries can also be found in requirements.txt.
 
 ### Features
 - It can join to voice channels and speak the words you desired:
-[![Rachael TTS](http://img.youtube.com/vi/ACd_pQvEuWo/0.jpg)](https://www.youtube.com/watch?v=ACd_pQvEuWo)
+[youtube](https://www.youtube.com/watch?v=ACd_pQvEuWo)
 
 - Can check your Spotify activity and send the music you listen to as a message:
+
 ![Spotify](https://github.com/nikneym/img_repo/blob/main/spotify.gif)
 
 It can also fetch kitapyurdu.com and steam (for no reason LOL), then bring you the results.
 - kitapyurdu:
+
 ![kitapyurdu](https://github.com/nikneym/img_repo/blob/main/kitapyurdu.gif)
 
 - steam:
+
 ![steam](https://github.com/nikneym/img_repo/blob/main/steam.gif)
 
 ### Future
