@@ -1,0 +1,6 @@
+beautifulsoup4==4.9.3
+discord.py==1.5.1
+google-speech==1.1.0
+PyNaCl==1.4.0
+requests==2.25.0
+sox==1.4.1
